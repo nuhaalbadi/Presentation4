@@ -1,4 +1,4 @@
-Presentation on Usability Testing
+Presentation on Usability Evaluation
 
 CSCI 5828: Foundations of Software Engineering
 
